@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aveva.Weather.WebApi", "src\Aveva.Weather.WebApi\Aveva.Weather.WebApi.csproj", "{315FB4ED-6D9B-4E8D-932D-37C6A074B648}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aveva.Weather.WebApi.Tests", "test\Aveva.Weather.WebApi.Tests\Aveva.Weather.WebApi.Tests.csproj", "{90D61FA8-7124-41F3-B2F0-2A27BB802520}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aveva.Weather.Models", "src\Aveva.Weather.Models\Aveva.Weather.Models.csproj", "{492F00D5-4C62-4290-9187-7A339E6B03BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{315FB4ED-6D9B-4E8D-932D-37C6A074B648}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{315FB4ED-6D9B-4E8D-932D-37C6A074B648}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{315FB4ED-6D9B-4E8D-932D-37C6A074B648}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{315FB4ED-6D9B-4E8D-932D-37C6A074B648}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90D61FA8-7124-41F3-B2F0-2A27BB802520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90D61FA8-7124-41F3-B2F0-2A27BB802520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90D61FA8-7124-41F3-B2F0-2A27BB802520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90D61FA8-7124-41F3-B2F0-2A27BB802520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{492F00D5-4C62-4290-9187-7A339E6B03BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{492F00D5-4C62-4290-9187-7A339E6B03BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{492F00D5-4C62-4290-9187-7A339E6B03BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{492F00D5-4C62-4290-9187-7A339E6B03BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
